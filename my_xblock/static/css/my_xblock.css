@@ -1,0 +1,9 @@
+/* CSS for MyXBlock */
+
+.my_xblock_block .count {
+    font-weight: bold;
+}
+
+.my_xblock_block p {
+    cursor: pointer;
+}
